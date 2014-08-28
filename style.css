@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+
+<style type="text/css" media="screen">
+BODY
+{
+    TEXT-INDENT: 2em;
+    MARGIN: 0px;
+    FONT-FAMILY: Arial, Verdana, Tahoma, "宋体"
+}
+.begin
+{
+    WIDTH: 1002px;
+    BACKGROUND: url(wwwimg/title1.png);
+    HEIGHT: 310px
+}
+.menu
+{
+    WIDTH: auto;
+    BACKGROUND: url(wwwimg/titleback.png);
+    HEIGHT: 52px
+}
+.mainmenu
+{
+    WIDTH: 1002px;
+    HEIGHT: 52px;
+    MARGIN-LEFT: auto;
+    MARGIN-RIGHT: auto
+}
+.logo
+{
+    WIDTH: 170px;
+    BACKGROUND: url(wwwimg/logo.png);
+    FLOAT: left;
+    HEIGHT: 52px
+}
+.menutext
+{
+    FLOAT: left;
+    MARGIN-LEFT: 100px
+}
+.menutext A:hover
+{
+    BACKGROUND: url(wwwimg/titlebackp.png)
+}
+.menutext A
+{
+    LINE-HEIGHT: 52px;
+    LIST-STYLE-TYPE: none;
+    FLOAT: left;
+    COLOR: #fff;
+    FONT-SIZE: 16px;
+    TEXT-DECORATION: none
+}
+.pd_menu_01 A:visited
+{
+    LINE-HEIGHT: 52px;
+    LIST-STYLE-TYPE: none;
+    FLOAT: left;
+    COLOR: #fff;
+    FONT-SIZE: 16px;
+    TEXT-DECORATION: none
+}
+#des
+{
+    HEIGHT: 700px
+}
+</style>
